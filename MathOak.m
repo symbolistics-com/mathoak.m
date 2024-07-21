@@ -1,4 +1,4 @@
-BeginPackage["MathOka`"]
+BeginPackage["MathOak`"]
 
 (*** Documents ***)
 
